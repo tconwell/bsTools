@@ -1,0 +1,21 @@
+Package: bsTools
+Type: Package
+Title: Create HTML Content with Bootstrap 5 Classes and Layouts
+Version: 1.0.5
+Author: Timothy Conwell
+Maintainer: Timothy Conwell <timconwell@gmail.com>
+Description: Functions are pre-configured to utilize Bootstrap 5 classes and 
+  HTML structures to create Bootstrap-styled HTML quickly and easily. Includes 
+  functions for creating common Bootstrap elements such as containers, rows, cols,
+  navbars, etc. Intended to be used with the html5 package. Learn more at 
+  <https://getbootstrap.com/>.
+License: GPL (>=2)
+Encoding: UTF-8
+LazyData: true
+Depends: 
+  html5 (>= 1.0.0)
+Imports:
+  toolbox
+RoxygenNote: 7.2.0
+URL: https://github.com/tconwell/bsTools
+BugReports: https://github.com/tconwell/bsTools/issues
