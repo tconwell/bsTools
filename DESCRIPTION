@@ -9,7 +9,7 @@ Description: Functions are pre-configured to utilize Bootstrap 5 classes and
   functions for creating common Bootstrap elements such as containers, rows, cols,
   navbars, etc. Intended to be used with the html5 package. Learn more at 
   <https://getbootstrap.com/>.
-License: GPL (>=2)
+License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
 Depends: 
